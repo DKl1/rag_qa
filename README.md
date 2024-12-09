@@ -42,11 +42,15 @@ pip --version
 Clone the repository and install the required dependencies:
 
 ```sh
-git clone https://github.com/your-repo/rag-system.git
+git clone git@github.com:DKl1/rag_qa.git
+```
+or
+```sh
+git clone https://github.com/DKl1/rag_qa.git
 ```
 go to the folder
 ```sh
-cd rag_qa_system
+cd rag_qa
 ```
 ## Setting Up the Virtual Environment
 

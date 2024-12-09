@@ -1,3 +1,4 @@
 .idea
 nlp_env
+.gradio
 __pycache__/

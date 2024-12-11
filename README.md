@@ -1,6 +1,12 @@
+---
+title: rag_qa
+app_file: app.py
+sdk: gradio
+sdk_version: 5.8.0
+---
 # RAG: Retrieval-Augmented Generation System
 
-Welcome to the RAG System, a cutting-edge application that combines powerful retrieval techniques with advanced language models to answer your questions with precision and context. The system seamlessly retrieves relevant documents, refines their relevance, and generates detailed, context-aware responses — complete with citations!
+Welcome to the RAG System, that combines powerful retrieval techniques with advanced language models to answer your questions with precision and context. The system seamlessly retrieves relevant documents, refines their relevance, and generates detailed, context-aware responses — complete with citations!
 
 # ✨ Features
 
